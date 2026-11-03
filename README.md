@@ -1,5 +1,6 @@
 # Clash of Eras — Commercial Real-Time Strategy (RTS) Engine & Multiplayer State Sync
 
+[![Live Demo](https://img.shields.io/badge/Play_Live_Demo-Itch.io-FA5C5C.svg?style=flat&logo=itchdotio&logoColor=white)](https://zyron-interactive.itch.io/clash-of-eras)
 [![JavaScript: ES6+](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
 [![Engine: HTML5 Canvas](https://img.shields.io/badge/Engine-HTML5_Canvas_60FPS-E34F26.svg?style=flat&logo=html5&logoColor=white)](README.md)
 [![Multiplayer: Python](https://img.shields.io/badge/Multiplayer-Python_Socket_Server-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
@@ -10,6 +11,7 @@
 
 ![Clash of Eras Banner](./assets/banner.jpg)
 
+> 🕹️ **Live Playable Web Build:** [**Play Clash of Eras on Itch.io**](https://zyron-interactive.itch.io/clash-of-eras) *(Instant browser play — 60 FPS HTML5 Canvas)*  
 > **Commercial Domain:** Cross-Platform Real-Time Strategy Title, Deterministic Multi-Era Game Simulation & Multi-Platform SDK Packaging  
 > **Target Platforms:** Poki, CrazyGames, GameDistribution, YouTube Playables, Itch.io  
 > **Game Architecture:** Custom 60 FPS 2D Canvas Renderer, Deterministic State Evaluator, Entity-Component Pool  
