@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# Builds and Zips
+*.zip
+*.tar.gz
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

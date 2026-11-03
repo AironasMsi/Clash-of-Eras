@@ -1,0 +1,5 @@
+# Clash of Eras Multiplayer Server
+# Standard library socketserver, http.server, threading used natively.
+# Optional extensions:
+websockets>=12.0
+requests>=2.31.0
